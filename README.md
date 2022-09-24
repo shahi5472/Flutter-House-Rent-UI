@@ -2,6 +2,12 @@
 
 <br>
 
+<a href="https://www.buymeacoffee.com/smkamal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+<br>
+
+<br>
+
 <h2 dir="auto"><a id="user-content-watch-it-on-youtube" class="anchor" aria-hidden="true"
 href="#watch-it-on-youtube"><svg class="octicon octicon-link" 
 viewBox="0 0 16 16" version="1.1" width="16" height="16" 
